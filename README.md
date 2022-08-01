@@ -1,4 +1,4 @@
-Hi 👋 My name is Alliah
+hey, stranger 👋 my name is Alliah
 =======================
 
 web developer wannabe
