@@ -4,12 +4,12 @@ hey, stranger 👋 my name is Alliah
 web developer wannabe
 ---------------------
 
-i'm actually an electronics engineering student who decided recently to focus on the IT field. i didn't know where to start at first until i've become inspired by the ✨brilliant personal websites✨ that went viral for its responsive and interactive user interface. likewise, i also took into consideration the fact that i already have a background about html and css since we made a collaborative website for our school when we were in senior high school. thus, i took a step forward on learning frontend development first by establishing my own personal portfolio(which is still in the making until now 🥺). 
+i'm actually an electronics engineering student who decided recently to focus on the IT field. i didn't know where to start at first until i've become inspired by the ✨brilliant personal websites✨ that went viral for its responsive and interactive user interface. likewise, i also took into consideration the fact that i already have a background about html and css since we made a collaborative website for our school when we were in senior high school. thus, i took a step forward on learning frontend development first by establishing my own personal portfolio. 
 
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [alliahlazaro9@gmail.com](mailto:alliahlazaro9@gmail.com )
 * 🧠  I'm currently learning frontend development (and backend development soon, hopefully 😖)
-* ⚡  through learning by my own so far, i've realized that i'm not only a bad learner but also has low self discipline. due to that self assessment, i WILL work on overcoming those hindrances!! 🙏
+
 
 ### Skills
 
